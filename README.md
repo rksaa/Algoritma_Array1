@@ -70,6 +70,12 @@ iq[2] = 105;
 ```
 Langsung tunjuk indeksnya, nilai lama langsung ketimpa.
 
+# Project Java Array
+
+Program latihan array 1 dimensi menggunakan Java.
+
+## Hasil Output Program
+![Hasil Program](hasil.png)
 
 
 ---
