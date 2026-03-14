@@ -14,7 +14,7 @@
 
 **1. Simpan data ke array**
 ```java
-int[] iq = {110, 125, 98};
+int[] iq = {110, 111, 112};
 String[] namaSiswa = {"Riksa Siddiq Alrizki", "Gama Daya Laksana", "Yusuf Hamdani"};
 String[] nimSiswa = {"312510015", "312510051", "312510049"};
 ```
@@ -66,7 +66,7 @@ Jumlahkan semua nilai, lalu bagi. `(double)` dipake biar hasilnya ada komanya.
 
 **6. Ubah nilai array**
 ```java
-iq[2] = 105;
+iq[2] = 114;
 ```
 Langsung tunjuk indeksnya, nilai lama langsung ketimpa.
 
